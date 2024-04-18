@@ -46,7 +46,7 @@ const Footer = () => {
         </div>
       </nav>
       <aside>
-        <p>Copyright © 2024 - All right reserved by RS RESIDENCE Industries Ltd</p>
+        <p>Copyright © 2024 - All right reserved by MR RESIDENCE Industries Ltd</p>
       </aside>
     </footer>
   );
