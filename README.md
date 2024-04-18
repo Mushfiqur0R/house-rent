@@ -1,10 +1,10 @@
 # React + Vite
 <!-- Add your project logo or banner here -->
 <div align="center">
-  <img src="https://postimg.cc/HVkFNM5P" alt="Your Project Logo" width="200px">
+  <img class="size-4" src="https://postimg.cc/HVkFNM5P" alt="Your Project Logo" width="200px">
 </div>
 
-# Project Name
+# Rent Hose System
 
 A brief description of your project goes here. Highlight its main features and benefits.
 
