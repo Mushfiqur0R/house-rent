@@ -1,7 +1,7 @@
 # React + Vite
 <!-- Add your project logo or banner here -->
 <div align="center">
-  <img class="size-8" src="https://postimg.cc/HVkFNM5P" alt="Your Project Logo" >
+  <img class="size-28" src="https://i.postimg.cc/Gh2V1Fsq/image.png" alt="Your Project Logo" >
 </div>
 
 # Rent Hose System
