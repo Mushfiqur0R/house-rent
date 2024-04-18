@@ -6,7 +6,7 @@
 
 # Rent Hose System
 
-A brief description of your project goes here. Highlight its main features and benefits.
+Find all Flats for Rent in Dhaka. Search through a wide range of Flats and Apartments for Rent in Dhaka and contact bproperty.com agents for enquiries.
 
 ## Table of Contents
 
